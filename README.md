@@ -39,6 +39,7 @@
 0041 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [View](./Array/FirstMissingPositive.cpp) | Hard |||
 0877 | [Stone Game](https://leetcode.com/problems/stone-game/) | [View](./Array/StoneGame.cpp) | Medium |||
 0048 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [View](./ArrayRotateImage.cpp) | Medium |||
+0056 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [VIew](./Array/MergeIntervals.cpp) | Medium |||
 
 ## Binary Search
 |  #  | Title           |  Solution       | Difficulty    |
