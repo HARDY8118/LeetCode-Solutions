@@ -37,6 +37,7 @@
 1471 | [The k Strongest Values in an Array](https://leetcode.com/problems/the-k-strongest-values-in-an-array/) | [View](./Array/TheKStrongestValuesInAnArray.cpp) | Medium |||
 0941 | [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) | [View](./Array/ValidMountainArray.cpp) | Medium |||
 0041 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [View](./Array/FirstMissingPositive.cpp) | Hard |||
+0877 | [Stone Game](https://leetcode.com/problems/stone-game/) | [View](./Array/StoneGame.cpp) | Medium |||
 
 ## Binary Search
 |  #  | Title           |  Solution       | Difficulty    |
