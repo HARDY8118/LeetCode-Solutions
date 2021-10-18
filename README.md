@@ -36,6 +36,7 @@
 1476 | [Subrectangle Queries](https://leetcode.com/problems/subrectangle-queries/) | [View](./Array/SubrectangleQueries.cpp) | Medium |||
 1471 | [The k Strongest Values in an Array](https://leetcode.com/problems/the-k-strongest-values-in-an-array/) | [View](./Array/TheKStrongestValuesInAnArray.cpp) | Medium |||
 0941 | [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) | [View](./Array/ValidMountainArray.cpp) | Medium |||
+0041 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [View](./Array/FirstMissingPositive.cpp) | Hard |||
 
 ## Binary Search
 |  #  | Title           |  Solution       | Difficulty    |
