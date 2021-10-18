@@ -38,6 +38,7 @@
 0941 | [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) | [View](./Array/ValidMountainArray.cpp) | Medium |||
 0041 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [View](./Array/FirstMissingPositive.cpp) | Hard |||
 0877 | [Stone Game](https://leetcode.com/problems/stone-game/) | [View](./Array/StoneGame.cpp) | Medium |||
+0048 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [View](./ArrayRotateImage.cpp) | Medium |||
 
 ## Binary Search
 |  #  | Title           |  Solution       | Difficulty    |
